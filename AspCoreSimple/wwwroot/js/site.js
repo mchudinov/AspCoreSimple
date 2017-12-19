@@ -1,1 +1,1 @@
-﻿// Write your Javascript code.
+﻿document.write(jQuery.fn.jquery);
